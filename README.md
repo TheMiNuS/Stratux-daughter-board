@@ -9,7 +9,7 @@ A project to make a daughterboard for Stratux.
 
 
 
-Stratux Saughter Board (c) by The_MiNuS
+Stratux Saughter Board (c) by TheMiNuS
 
 Stratux Saughter Board is licensed under a
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
